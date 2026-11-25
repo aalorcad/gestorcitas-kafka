@@ -1,0 +1,7 @@
+# Variables con credenciales: solo se sube .env.example
+.env
+# Sistema operativo / IDE
+.DS_Store
+.idea/
+.vscode/
+*.log
